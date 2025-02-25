@@ -11,7 +11,7 @@ var packageMetadata = require('./packageMetadata.js');
 
 
 
-Object.defineProperty(exports, 'AuthError', {
+Object.defineProperty(exports, 'AuthErrorq', {
 	enumerable: true,
 	get: function () { return msalNode.AuthError; }
 });
